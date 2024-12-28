@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "role": "Web Development - intern",
+    "organisation": "Oasis Infobyte",
+    "startDate": "January, 2023",
+    "endDate": "May, 2023",
+    "location": "Remote",
+    "experiences": [
+      "Worked on very interesting project",
+      "Worked with the Oasis Infobyte Team"
+    ],
+    "imageSrc": "company/google.png"
+  },
+  {
+    "id": 2,
+    "role": "Web Development - intern",
+    "organisation": "Bharat Intern",
+    "startDate": "July, 2023",
+    "endDate": "Sept, 2023",
+    "location": "Remote",
+    "experiences": [
+      "Worked on the provided task"
+    ],
+    "imageSrc": "company/microsoft.png"
+  },
+  {
+    "id": 3,
+    "role": "Software Development Engineer - Intern",
+    "organisation": "Netflix",
+    "startDate": "Apr, 2021",
+    "endDate": "Jun, 2022",
+    "location": "Bengluru, India",
+    "experiences": [
+      "Worked on Nextflix payment system",
+      "Helped to create UI for video player"
+    ],
+    "imageSrc": "company/netflix.png"
+  }
+]
